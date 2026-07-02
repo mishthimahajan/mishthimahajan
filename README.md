@@ -1,24 +1,22 @@
-# 🚀 Hey, I'm Mishthi Mahajan
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mishthi Mahajan</h1>
+# Hi 👋 I'm Mishthi Mahajan
 
-<h3 align="center">
-Software Developer • AI Engineer • Full Stack Developer
-</h3>
+### Software Developer • AI Engineer • Full Stack Developer
 
-<p align="center">
-Building scalable web applications, intelligent AI solutions, and impactful real-world products.
-</p>
+Building scalable web applications, AI-powered solutions, and impactful products.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer+(MERN);Problem+Solver+%7C+DSA+Enthusiast;Building+Products+That+Matter+🚀" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+🚀"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mishthimahajan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mishthimahajan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/mishthimahajan?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/mishthimahajan?style=for-the-badge&logo=github"/>
-</p>
+
+<img src="https://img.shields.io/github/last-commit/mishthimahajan/mishthimahajan?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -31,239 +29,208 @@ public:
 
     string role = "Software Developer & AI Engineer";
 
-    vector<string> interests = {
-        "Full Stack Development",
-        "Artificial Intelligence",
+    vector<string> skills = {
+        "MERN Stack",
         "Machine Learning",
-        "Backend Engineering",
+        "Generative AI",
+        "Backend Development",
         "System Design"
     };
 
-    vector<string> currentlyLearning = {
-        "Generative AI",
+    vector<string> learning = {
         "LLMs",
+        "AI Agents",
         "Cloud",
         "Docker",
-        "System Design"
+        "AWS"
     };
 
-    string motto = "Build. Learn. Improve. Repeat.";
+    string motto = "Code. Learn. Build. Repeat.";
 };
 ```
 
-* 💻 Passionate Full Stack Developer
-* 🤖 AI & Machine Learning Enthusiast
-* 🧠 Strong in Data Structures & Algorithms (C++)
-* 🚀 Building scalable real-world applications
-* 🌱 Exploring Generative AI, Backend Systems & Cloud
-* ⚡ Love writing clean, efficient and maintainable code
-* 🎯 Open to Software Development & AI Engineering opportunities
+- 💻 Full Stack Developer (MERN)
+- 🤖 AI & Machine Learning Enthusiast
+- 🧠 Strong in Data Structures & Algorithms (C++)
+- 🚀 Building AI-powered products
+- 🌱 Exploring LLMs, RAG & AI Agents
+- ⚡ Clean, scalable and maintainable code
+- 🎯 Open to Software Development & AI Engineering roles
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,c"/>
 </p>
 
-## 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
 </p>
 
-## ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## 🗄️ Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
-## 🤖 AI / Machine Learning
+### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-## ☁️ Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
 </p>
-
----
-
-# 🧠 Core Skills
-
-✔ Data Structures & Algorithms
-
-✔ Object-Oriented Programming
-
-✔ DBMS
-
-✔ Operating Systems
-
-✔ Computer Networks
-
-✔ REST APIs
-
-✔ Authentication & Authorization
-
-✔ Responsive Web Design
-
-✔ Problem Solving
-
-✔ Machine Learning
-
-✔ Generative AI
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌍 Skill Exchange Platform
+## 🤖 AutoPM AI
 
-> Hyperlocal platform connecting people to exchange skills.
+AI-powered Product Management Assistant
 
-### Features
+- Sprint Planning
+- User Story Generation
+- AI Chat
+- Product Insights
 
-* 🤖 AI-powered skill matching
-* 💬 Real-time communication
-* 🔐 Authentication & Authorization
-* 👥 User Profiles
-* 📍 Location-based recommendations
+**Tech**
 
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • AI
-
----
-
-## 🍔 FoodLink
-
-Modern food ordering & delivery platform.
-
-### Features
-
-* 🍽️ Online Ordering
-* 📍 Live Order Tracking
-* 💳 Secure Authentication
-* 📱 Responsive UI
-* ⚡ Fast Performance
-
-**Tech Stack**
-
-React • Express • MongoDB
+`React` `Node.js` `MongoDB` `OpenAI`
 
 ---
 
 ## 🏥 Telehealth AI Assistant
 
-AI-powered healthcare assistant for symptom analysis.
+AI-powered healthcare assistant
 
-### Features
+- Symptom Prediction
+- Disease Analysis
+- ML Recommendations
 
-* 🤖 Symptom Prediction
-* 📊 ML-based Recommendations
-* 📄 Health Suggestions
-* 🔗 Backend APIs
+**Tech**
 
-**Tech Stack**
-
-Python • Machine Learning • Flask • MongoDB
+`Python` `Flask` `Machine Learning`
 
 ---
 
-## 🤖 AutoPM AI
+## 🌍 Skill Exchange Platform
 
-AI-powered Product Management Assistant.
+Hyperlocal AI-powered skill exchange platform
 
-### Features
+- AI Skill Matching
+- User Authentication
+- Real-time Communication
 
-* 🧠 Sprint Planning
-* ✨ User Story Generation
-* 📋 Task Automation
-* 📈 Product Insights
-* 🤖 Generative AI
+**Tech**
 
-**Tech Stack**
-
-React • Node.js • MongoDB • OpenAI APIs
+`React` `Node.js` `MongoDB`
 
 ---
 
-# 📊 GitHub Analytics
+## 🍔 FoodLink
+
+Modern Food Ordering Platform
+
+- Live Tracking
+- Authentication
+- Responsive UI
+
+**Tech**
+
+`React` `Express` `MongoDB`
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishthimahajan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mishthimahajan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishthimahajan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishthimahajan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishthimahajan&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mishthimahajan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishthimahajan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishthimahajan&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 💻 Coding Profiles
 
-🏅 Strong foundation in Data Structures & Algorithms
+<p align="center">
 
-🏅 Built multiple Full Stack & AI-powered projects
+<a href="https://leetcode.com/u/Mishthimahajan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-🏅 Passionate about solving real-world problems
 
-🏅 Continuously learning modern technologies
 
-🏅 Active GitHub learner & contributor
+</p>
+
+### 🏆 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Mishthimahajan?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Docker
-* Kubernetes
-* AWS
-* Advanced Backend Development
-* System Design
+- 🤖 Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🚀 AI Agents
+- ☁️ AWS
+- 🐳 Docker
+- ⚙️ Kubernetes
+- 🏗️ System Design
 
 ---
 
 # 💼 Looking For
 
-I'm actively interested in:
+✔ Software Development Engineer Roles
 
-* 💻 Software Development Engineer (SDE) Roles
-* 🤖 AI / ML Engineer Roles
-* 🌐 Full Stack Developer Roles
-* 🚀 Internship & Full-Time Opportunities
-* 🌍 Open Source Collaborations
+✔ AI / ML Engineer Roles
+
+✔ Full Stack Developer Roles
+
+✔ Internship Opportunities
+
+✔ Open Source Collaborations
 
 ---
 
@@ -284,24 +251,29 @@ I'm actively interested in:
 </a>
 
 <a href="https://portfolio-pro-6g9n.vercel.app/">
-🌐 Portfolio
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Mishthimahajan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💬 Favorite Quote
 
-> *"Great software is built by continuously learning, solving problems, and creating value."*
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile!
+
+*"Building AI today for the software of tomorrow."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=120&section=footer"/>
 
-</p>
- 
+</div>
