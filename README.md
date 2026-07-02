@@ -1,129 +1,307 @@
-# 🚀 Hey, I'm Mishthi Mahajan  
+# 🚀 Hey, I'm Mishthi Mahajan
+
+<h1 align="center">Hi 👋, I'm Mishthi Mahajan</h1>
+
+<h3 align="center">
+Software Developer • AI Engineer • Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6F91&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;C%2B%2B+Problem+Solver;Building+Scalable+Web+Apps" />
+Building scalable web applications, intelligent AI solutions, and impactful real-world products.
 </p>
-
----
-
-## 🌟 About Me  
-
-💻 Passionate **Full Stack Developer & ML Enthusiast**  
-🚀 Building **real-world impactful applications**  
-🧠 Strong in **Data Structures & Algorithms (C++)**  
-🌱 Exploring **AI, Machine Learning & Backend Systems**  
-🔥 Love writing **clean, scalable & efficient code**  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
----
-
-### ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
----
-
-### 🗄️ Database  
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-### 🤖 AI / ML  
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
----
-
-### 🧠 Core Concepts  
-✨ Data Structures & Algorithms  
-✨ Object-Oriented Programming  
-✨ REST APIs  
-✨ DBMS  
-
----
-
-## 🔥 Projects  
-
-### 🚀 Skill Exchange Platform  
-🔹 Hyperlocal platform to connect users & exchange skills  
-🔹 AI-powered matching system  
-
----
-
-### 📊 FoodLink  
-🔹 Smart food ordering & delivery system  
-🔹 Modern UI/UX with real-time features  
-
----
-
-### 🏥 Telehealth AI Assistant  
-🔹 AI-based symptom analysis & health suggestions  
-🔹 Built using ML + backend APIs  
-
----
-
-### 🤖 AutoPM AI  
-🔹 Generative AI-powered Product Management Assistant  
-🔹 Automates planning, tasks & insights  
-
----
-
-## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishthimahajan&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishthimahajan&theme=radical" height="180"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer+(MERN);Problem+Solver+%7C+DSA+Enthusiast;Building+Products+That+Matter+🚀" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mishthimahajan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/mishthimahajan?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/mishthimahajan?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+# 👩‍💻 About Me
+
+```cpp
+class MishthiMahajan {
+
+public:
+
+    string role = "Software Developer & AI Engineer";
+
+    vector<string> interests = {
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Engineering",
+        "System Design"
+    };
+
+    vector<string> currentlyLearning = {
+        "Generative AI",
+        "LLMs",
+        "Cloud",
+        "Docker",
+        "System Design"
+    };
+
+    string motto = "Build. Learn. Improve. Repeat.";
+};
+```
+
+* 💻 Passionate Full Stack Developer
+* 🤖 AI & Machine Learning Enthusiast
+* 🧠 Strong in Data Structures & Algorithms (C++)
+* 🚀 Building scalable real-world applications
+* 🌱 Exploring Generative AI, Backend Systems & Cloud
+* ⚡ Love writing clean, efficient and maintainable code
+* 🎯 Open to Software Development & AI Engineering opportunities
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
 
 <p>
-  <a href="https://www.linkedin.com/in/mishthi-mahajan">
-    <img src="https://img.shields.io/badge/LinkedIn-Mishthi%20Mahajan-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mishthimahajan0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,c"/>
+</p>
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+## ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
+# 🧠 Core Skills
 
-✨ I turn ideas into scalable products 🚀  
-🔥 Consistency + Learning = Growth  
+✔ Data Structures & Algorithms
+
+✔ Object-Oriented Programming
+
+✔ DBMS
+
+✔ Operating Systems
+
+✔ Computer Networks
+
+✔ REST APIs
+
+✔ Authentication & Authorization
+
+✔ Responsive Web Design
+
+✔ Problem Solving
+
+✔ Machine Learning
+
+✔ Generative AI
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Skill Exchange Platform
+
+> Hyperlocal platform connecting people to exchange skills.
+
+### Features
+
+* 🤖 AI-powered skill matching
+* 💬 Real-time communication
+* 🔐 Authentication & Authorization
+* 👥 User Profiles
+* 📍 Location-based recommendations
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • AI
+
+---
+
+## 🍔 FoodLink
+
+Modern food ordering & delivery platform.
+
+### Features
+
+* 🍽️ Online Ordering
+* 📍 Live Order Tracking
+* 💳 Secure Authentication
+* 📱 Responsive UI
+* ⚡ Fast Performance
+
+**Tech Stack**
+
+React • Express • MongoDB
+
+---
+
+## 🏥 Telehealth AI Assistant
+
+AI-powered healthcare assistant for symptom analysis.
+
+### Features
+
+* 🤖 Symptom Prediction
+* 📊 ML-based Recommendations
+* 📄 Health Suggestions
+* 🔗 Backend APIs
+
+**Tech Stack**
+
+Python • Machine Learning • Flask • MongoDB
+
+---
+
+## 🤖 AutoPM AI
+
+AI-powered Product Management Assistant.
+
+### Features
+
+* 🧠 Sprint Planning
+* ✨ User Story Generation
+* 📋 Task Automation
+* 📈 Product Insights
+* 🤖 Generative AI
+
+**Tech Stack**
+
+React • Node.js • MongoDB • OpenAI APIs
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishthimahajan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishthimahajan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishthimahajan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishthimahajan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Strong foundation in Data Structures & Algorithms
+
+🏅 Built multiple Full Stack & AI-powered projects
+
+🏅 Passionate about solving real-world problems
+
+🏅 Continuously learning modern technologies
+
+🏅 Active GitHub learner & contributor
+
+---
+
+# 🌱 Currently Learning
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Docker
+* Kubernetes
+* AWS
+* Advanced Backend Development
+* System Design
+
+---
+
+# 💼 Looking For
+
+I'm actively interested in:
+
+* 💻 Software Development Engineer (SDE) Roles
+* 🤖 AI / ML Engineer Roles
+* 🌐 Full Stack Developer Roles
+* 🚀 Internship & Full-Time Opportunities
+* 🌍 Open Source Collaborations
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mishthi-mahajan">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mishthimahajan0@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/mishthimahajan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://portfolio-pro-6g9n.vercel.app/">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Great software is built by continuously learning, solving problems, and creating value."*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mishthimahajan&color=blue&style=for-the-badge"/>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=120&section=footer"/>
+
 </p>
+ 
