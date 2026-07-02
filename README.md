@@ -70,7 +70,7 @@ public:
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 </p>
 
 ### Backend
@@ -94,7 +94,7 @@ public:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 </p>
 
 ---
